@@ -12,11 +12,14 @@ Y el ejercicio SQL organizado en la carpeta **Seccion_1**
 
 Desde la carpeta `Seccion_4`:
 
-**Compilar y empaquetar**
+### Compilar y empaquetar
+
 mvn clean package
 
-**Ejecutar**
+### Ejecutar
+
 java -jar target/ProductApp-1.0-SNAPSHOT-jar-with-dependencies.jar
 
-**Excel protegido**
+### Excel protegido
+
 Contraseña `1234`.
